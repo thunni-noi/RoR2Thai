@@ -1,0 +1,31 @@
+ManifestFileVersion: 0
+CRC: 1841838442
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1eb36de97fc35e940bf4e5c6dc7eff23
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d194219d3d60836695c66bbe416225fe
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/ThaiFont/tmpBombDropshadow_rsu.asset
+- Assets/ThaiFont/RSU_modified.asset
+- Assets/ThaiFont/tmpBombDropshadow_rsubold.asset
+- Assets/ThaiFont/NotoSansThai.asset
+- Assets/Models - PLACE RAW MODELS HERE/Meshes/HERE_FOR_EXPORT_DO_NOT_USE.txt
+Dependencies: []
