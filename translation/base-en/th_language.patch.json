@@ -1,0 +1,22 @@
+{
+	"strings": {
+		"MORE_CONTACT_PICKUP": "Follow us on social media for the latest news, updates, and more about Risk of Rain 2!",
+		"MORE_LICENSE_PICKUP": "Copyright (C) 2012 - 2022 Hopoo Games, LLC. All rights reserved. \n\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \n\nPowered by Wwise (C) 2006 - 2022 Audiokinetic Inc. All rights reserved.\n\nAll other trademarks and registered trademarks are property of their respective owners.",
+		"MORE_MUSIC_PICKUP": "Hello friend. I'm Chris, the composer of this game's soundtrack. You might know me from the original Risk of Rain, or from the coffee place down the street. Anyway, I've been writing for ROR2 for four years now and it's been a lot of hard work. But it's also been very rewarding because I got to write music I'm really proud of.\nI hope you like it!\n\nIf you'd like to stay in the loop you can follow me on Twitter or Instagram (both @AstronautDown) and check out our Discord server!",
+		"SIGNUP_PICKUP": "Get exclusive updates delivered right to your inbox!",
+		"TITLE_ECLIPSE_PICKUP": "Play an advanced gamemode that adds stacking challenge modifiers each time you beat the game.",
+		"TITLE_EXIT_PICKUP": "Close Risk of Rain 2.",
+		"TITLE_EXTRAGAMEMODE_PICKUP": "Play alternate Risk of Rain 2 gamemodes, like Prismatic Trials and Eclipse.",
+		"TITLE_INFINITETOWER_PICKUP": "Play a wave-based arena mode that takes place inside of a Void “simulation”",
+		"TITLE_LOGS_PICKUP": "Read lore, character details, and how to unlock new content.",
+		"TITLE_MORE_PICKUP": "Join Communities, learn about the game, and more!",
+		"TITLE_MULTIPLAYER": "เล่นหลายคน",
+		"TITLE_MULTIPLAYER_PICKUP": "Find or invite players online.",
+		"TITLE_PROFILE_PICKUP": "Change or create new profiles.",
+		"TITLE_SETTINGS_PICKUP": "Modify controls, display, and more.",
+		"TITLE_SIGNUP_PICKUP": "Join our mailing list for future updates!",
+		"TITLE_SINGLEPLAYER": "เล่นคนเดียว",
+		"TITLE_SINGLEPLAYER_PICKUP": "Begin a solo run.",
+		"TITLE_WEEKLY_PICKUP": "Compete in a fixed seed challenge with other players online."
+	}
+}
