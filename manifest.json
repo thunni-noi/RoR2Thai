@@ -1,8 +1,8 @@
 {
-    "name": "RoR2Thai",
+    "name": "RoR2Thai_GTranslate",
     "version_number": "1.0.0",
     "website_url": "https://github.com/thunni-noi/RoR2Thai",
-    "description": "Thai translation for Risk Of Rain 2",
+    "description": "Thai translation for Risk Of Rain 2 (Google Translated)",
     "dependencies": [
         "RiskofThunder-HookGenPatcher-1.2.3",
         "RiskofThunder-R2API_Language-1.0.0",
