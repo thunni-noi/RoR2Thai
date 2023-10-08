@@ -3,7 +3,7 @@
 
 Thai translation for Risk Of Rain 2
 
-#Disclaimer
+# Disclaimer
 
 Currently the translation is fully made by Google Translate because i don't have enough time.
 So if you want to re-made the translation please don't hesitate to use my font file or make a pull request.
